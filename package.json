@@ -1,0 +1,23 @@
+{
+  "name": "node_mysql",
+  "version": "1.0.0",
+  "description": "Crud em node.js com Mysql",
+  "main": "index.js",
+  "dependencies": {
+    "mysql2": "^2.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gasperpb/Node_Mysql.git"
+  },
+  "author": "Achilles V.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gasperpb/Node_Mysql/issues"
+  },
+  "homepage": "https://github.com/gasperpb/Node_Mysql#readme"
+}
